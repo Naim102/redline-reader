@@ -72,4 +72,4 @@ Manually tested by the author in GenLayer Studio: deploy, the two example clause
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+MIT License. See the LICENSE file.
